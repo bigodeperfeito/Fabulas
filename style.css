@@ -10,3 +10,9 @@ body{
 img{
    width: 500px; 
 }
+
+a{
+    color: red;
+    text-decoration: none;
+   
+}
